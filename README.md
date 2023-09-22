@@ -1,7 +1,7 @@
 # assignment
 Home assignment for scratch game
 # How to run the assignment?
-
+Java 8+
 1. download assignment.zip
 2. Unzip assignment.zip
 3. cd assignment
